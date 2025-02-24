@@ -21,15 +21,16 @@ WISDOM WING is a private Android application designed to facilitate communicatio
 ## App Screenshots
 
 <div align="center">
-  <img src="![WhatsApp Image 2025-02-24 at 23 25 02_e2770ba1](https://github.com/user-attachments/assets/0eb27f02-b876-436b-b51d-4cf223049b2f)"  width = "250">
-  <img src="![WhatsApp Image 2025-02-24 at 23 25 03_83b57905](https://github.com/user-attachments/assets/9088cc7e-0e14-4f63-b7e0-9f8a2aaca654)"  width = "250">
-  <img src="![WhatsApp Image 2025-02-24 at 23 25 03_5ed895dc](https://github.com/user-attachments/assets/77baf34c-b131-45cb-8315-f62812e469f5)"  width = "250">
-  <img src="![WhatsApp Image 2025-02-24 at 23 25 04_ca268af4](https://github.com/user-attachments/assets/e35a653c-a1ea-4098-a4f7-9910ae337caa)"width = "250">
-  <img src="![WhatsApp Image 2025-02-24 at 23 25 04_5c86544c](https://github.com/user-attachments/assets/d673df2b-1991-47cc-ab05-ee542f209e77)"  width = "250">
-  <img src="![WhatsApp Image 2025-02-24 at 23 25 05_b9d93d5c](https://github.com/user-attachments/assets/bef5e4d7-9452-4927-a960-6d5c9bbaa29f)"  width = "250">
-  <img src="![WhatsApp Image 2025-02-24 at 23 25 04_98fa313b](https://github.com/user-attachments/assets/d46080f3-ac2c-474f-9f23-5dceaaa97e4f)"  width = "250">
- <img src="![WhatsApp Image 2025-02-24 at 23 30 47_6c939929](https://github.com/user-attachments/assets/c25349e3-4599-4f2f-8284-faf581809457)" width = "250">
+  <img src="https://github.com/user-attachments/assets/0eb27f02-b876-436b-b51d-4cf223049b2f" width="250">
+  <img src="https://github.com/user-attachments/assets/9088cc7e-0e14-4f63-b7e0-9f8a2aaca654" width="250">
+  <img src="https://github.com/user-attachments/assets/77baf34c-b131-45cb-8315-f62812e469f5" width="250">
+  <img src="https://github.com/user-attachments/assets/e35a653c-a1ea-4098-a4f7-9910ae337caa" width="250">
+  <img src="https://github.com/user-attachments/assets/d673df2b-1991-47cc-ab05-ee542f209e77" width="250">
+  <img src="https://github.com/user-attachments/assets/bef5e4d7-9452-4927-a960-6d5c9bbaa29f" width="250">
+  <img src="https://github.com/user-attachments/assets/d46080f3-ac2c-474f-9f23-5dceaaa97e4f" width="250">
+  <img src="https://github.com/user-attachments/assets/c25349e3-4599-4f2f-8284-faf581809457" width="250">
 </div>
+
 
 ## Policies
 
