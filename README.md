@@ -31,11 +31,6 @@ WISDOM WING is a private Android application designed to facilitate communicatio
   <img src="https://github.com/user-attachments/assets/c25349e3-4599-4f2f-8284-faf581809457" width="250">
 </div>
 
-
-## Policies
-
-Details regarding privacy policies and terms of use will be outlined here.
-
 ## Installation
 
 To install and run WISDOM WING, follow these steps:
