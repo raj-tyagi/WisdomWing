@@ -1,6 +1,6 @@
 # WISDOM WING
 
-WISDOM WING is a private Android application designed to facilitate communication between college students. It allows students to ask questions and seek answers from seniors or experienced individuals within their college community. With its user-friendly interface and intuitive design, the app aims to promote knowledge sharing and create a supportive environment for academic and personal growth.
+WISDOM WING is a private Android application designed to facilitate communication between college students. It allows students to ask questions and seek answers from seniors or experienced individuals within their college community. With its user-friendly interface and intuitive design, the app aims to promote knowledge sharing and create a supportive environment for academic and personal growth. 
 
 ## Features
 
